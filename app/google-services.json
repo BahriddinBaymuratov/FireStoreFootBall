@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2400594291",
+    "project_id": "firestorefootball-18c10",
+    "storage_bucket": "firestorefootball-18c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2400594291:android:39c991515032449757bd06",
+        "android_client_info": {
+          "package_name": "com.example.firestorefootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2400594291-rq1k1mvm4n5edrv5qkcu2rucmeppa9vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_EONk2WYgDeNLbtFlEw5fkEdXNFSJ-uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2400594291-rq1k1mvm4n5edrv5qkcu2rucmeppa9vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
